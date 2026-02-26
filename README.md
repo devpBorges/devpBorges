@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Iniciante`**
 
-Me chamo Anna Clara Borges, tenho 20 anos e sou natural do Mato Grosso. Atualmente, estou cursando Ciência da computação na UNEMAT. Iniciante no mundo do desenvolvimento de software e web, aqui irei compartilhar alguns projeto e evoluções. Podem me acompanhar no instagram também "[Anna](https://instagram.com/nacleira)" ou me contatar pelo "[email](brgsnana@gmai.com)"
+Me chamo Anna Clara Borges, tenho 20 anos e sou natural do Mato Grosso. Atualmente, estou cursando Ciência da computação na UNEMAT. Iniciante no mundo do desenvolvimento de software e web, aqui irei compartilhar alguns projeto e evoluções. Podem me acompanhar no instagram também "[Anna](https://instagram.com/nacleira)".
 
 
    <p> <a href="https://github.com/devpBorges?tab=repositories&sort=stargazers">
